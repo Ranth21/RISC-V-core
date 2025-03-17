@@ -41,3 +41,6 @@ Each module was verified with dedicated testbenches covering corner cases and er
 
 This project lays a solid foundation for further enhancements, such as adding multithreading or advanced scheduling techniques. Enjoy exploring and extending the design!
 
+
+### **I haven't written the parser to this project, coz this was my base version for the higher iteration..feel free to add the file, if you are interested.**
+
